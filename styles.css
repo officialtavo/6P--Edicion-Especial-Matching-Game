@@ -1,0 +1,28 @@
+body {
+    margin: 1em;
+    background: red;
+    font-family: "Galindo";
+    text-align: center;
+    margin: 0 0 10px 0;
+    color: white;
+}
+
+p.thick {
+    font-weight: bold;
+}
+
+game {
+    display: inline;
+    /* DO NOT CHANGE display: inline */
+}
+
+.card {
+    display: inline-block;
+    /* DO NOT CHANGE display: inline-block */
+    background-color: rgba(0, 0, 0, 0.37);
+    background-size: 115px 120px;
+    width: 115px;
+    height: 120px;
+    margin: 8px;
+    border: 5px solid white;
+}
